@@ -1,7 +1,8 @@
 <h2 data-importer="text" align="center">Bom vindo ao meu Git</h2>
 
+<h4 data-importer="text" align="center">Minhas linguagens são</h4>
+
 <div data-importer="techs" align="center">
-  <h2 data-importer="text" align="right">Linguagens que trabalho ou estou aprendendo</h2>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" alt="html5 logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30" alt="css3 logo"  />
@@ -17,9 +18,9 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="30" alt="csharp logo"  />
 </div>
 
-###
+<h4 data-importer="text" align="center">Pincipais redes:</h4>
 
-<div data-importer="socials" align="right">
+<div data-importer="socials" align="center">
   <a href="https://discord.com/users/481963803869839372" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="discord logo"  />
   </a>
@@ -28,4 +29,10 @@
   </a>
 </div>
 
-###
+<br clear="both">
+
+<img data-importer="snake" src="https://raw.githubusercontent.com/Tocdor-creator/Tocdor-creator/snake-output/snake.svg" alt="Snake animation" />
+
+<div data-importer="border">
+  <img style="100%" src="https://capsule-render.vercel.app/api?type=waving&height=100&section=header&reversal=false&fontSize=70&fontColor=FFFFFF&fontAlign=50&fontAlignY=50&stroke=-&animation=twinkling&descSize=15&descAlign=50&descAlignY=50&textBg=false&theme=cobalt"  />
+</div>
